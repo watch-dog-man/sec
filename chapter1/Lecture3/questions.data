@@ -1,6 +1,6 @@
 [
 
-{'i':'Geting started with pyGames', 'q': 'Simply return the data as the answer. ', 'a': 'SUBMITME ', 'd': 'SUBMITME '},
+{'i':'Geting started with pyGames', 'q': 'Simply return the data as the answer. ', 'a': 'SUBMITME', 'd': 'SUBMITME'},
 
 {'i':'Getting started with pyGames, part 2 :D', 'q': 'Submit the sum of data()+ 5. ', 'a': 85, 'd': 80}, 
 
